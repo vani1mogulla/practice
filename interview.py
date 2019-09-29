@@ -1,4 +1,4 @@
-
+#First Scenario - Reverse the digit without using function
 val1 = int(input("Number:"))
 
 
